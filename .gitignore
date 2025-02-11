@@ -5,3 +5,6 @@ __pycache__
 dist
 run_check
 *.old
+.venv/
+.venv/*
+*.swp

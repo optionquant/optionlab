@@ -30,3 +30,16 @@ git add .
 Commit it:
 
 git commit -m ".gitignore is now working"
+
+
+
+All my changes to be uploaded to "master" branch, and let main branch to be in synch with original repo (Brasil)
+
+
+
+it push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+    
